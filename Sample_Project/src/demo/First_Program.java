@@ -14,12 +14,12 @@ static int a;
 	{
 		if(a%2==0)
 		{
-			System.out.println(a+ "Number is Even");
+			System.out.println(a+ "Entered Number is Even");
 			
 		}
 		else
 		{
-			System.out.println(a+ " Number is Odd");
+			System.out.println(a+ "Entered Number is Odd");
 		}
 		
 	}
